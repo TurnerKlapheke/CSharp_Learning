@@ -1,0 +1,32 @@
+C:\C# Programs\Loops thing\bin\Debug\net5.0\Loops thing.exe
+C:\C# Programs\Loops thing\bin\Debug\net5.0\Loops thing.deps.json
+C:\C# Programs\Loops thing\bin\Debug\net5.0\Loops thing.runtimeconfig.json
+C:\C# Programs\Loops thing\bin\Debug\net5.0\Loops thing.runtimeconfig.dev.json
+C:\C# Programs\Loops thing\bin\Debug\net5.0\Loops thing.dll
+C:\C# Programs\Loops thing\bin\Debug\net5.0\ref\Loops thing.dll
+C:\C# Programs\Loops thing\bin\Debug\net5.0\Loops thing.pdb
+C:\C# Programs\Loops thing\obj\Debug\net5.0\Loops thing.csprojAssemblyReference.cache
+C:\C# Programs\Loops thing\obj\Debug\net5.0\Loops thing.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Programs\Loops thing\obj\Debug\net5.0\Loops thing.AssemblyInfoInputs.cache
+C:\C# Programs\Loops thing\obj\Debug\net5.0\Loops thing.AssemblyInfo.cs
+C:\C# Programs\Loops thing\obj\Debug\net5.0\Loops thing.csproj.CoreCompileInputs.cache
+C:\C# Programs\Loops thing\obj\Debug\net5.0\Loops thing.dll
+C:\C# Programs\Loops thing\obj\Debug\net5.0\ref\Loops thing.dll
+C:\C# Programs\Loops thing\obj\Debug\net5.0\Loops thing.pdb
+C:\C# Programs\Loops thing\obj\Debug\net5.0\Loops thing.genruntimeconfig.cache
+C:\C# Programs\Methods\obj\Debug\net5.0\Loops thing.csprojAssemblyReference.cache
+C:\C# Programs\Methods\obj\Debug\net5.0\Loops thing.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Programs\Methods\obj\Debug\net5.0\Loops thing.AssemblyInfoInputs.cache
+C:\C# Programs\Methods\obj\Debug\net5.0\Loops thing.AssemblyInfo.cs
+C:\C# Programs\Methods\obj\Debug\net5.0\Loops thing.csproj.CoreCompileInputs.cache
+C:\C# Programs\Methods\obj\Debug\net5.0\Loops thing.dll
+C:\C# Programs\Methods\obj\Debug\net5.0\ref\Loops thing.dll
+C:\C# Programs\Methods\obj\Debug\net5.0\Loops thing.pdb
+C:\C# Programs\Methods\bin\Debug\net5.0\Loops thing.exe
+C:\C# Programs\Methods\bin\Debug\net5.0\Loops thing.deps.json
+C:\C# Programs\Methods\bin\Debug\net5.0\Loops thing.runtimeconfig.json
+C:\C# Programs\Methods\bin\Debug\net5.0\Loops thing.runtimeconfig.dev.json
+C:\C# Programs\Methods\bin\Debug\net5.0\Loops thing.dll
+C:\C# Programs\Methods\bin\Debug\net5.0\ref\Loops thing.dll
+C:\C# Programs\Methods\bin\Debug\net5.0\Loops thing.pdb
+C:\C# Programs\Methods\obj\Debug\net5.0\Loops thing.genruntimeconfig.cache

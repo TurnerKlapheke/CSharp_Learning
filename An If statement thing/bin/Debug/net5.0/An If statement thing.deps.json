@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "An If statement thing/1.0.0": {
+        "runtime": {
+          "An If statement thing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "An If statement thing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

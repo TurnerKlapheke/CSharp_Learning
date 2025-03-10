@@ -1,0 +1,16 @@
+C:\C# Programs\If statement challenge\obj\Debug\net5.0\If statement challenge.csprojAssemblyReference.cache
+C:\C# Programs\If statement challenge\obj\Debug\net5.0\If statement challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Programs\If statement challenge\obj\Debug\net5.0\If statement challenge.AssemblyInfoInputs.cache
+C:\C# Programs\If statement challenge\obj\Debug\net5.0\If statement challenge.AssemblyInfo.cs
+C:\C# Programs\If statement challenge\obj\Debug\net5.0\If statement challenge.csproj.CoreCompileInputs.cache
+C:\C# Programs\If statement challenge\bin\Debug\net5.0\If statement challenge.exe
+C:\C# Programs\If statement challenge\bin\Debug\net5.0\If statement challenge.deps.json
+C:\C# Programs\If statement challenge\bin\Debug\net5.0\If statement challenge.runtimeconfig.json
+C:\C# Programs\If statement challenge\bin\Debug\net5.0\If statement challenge.runtimeconfig.dev.json
+C:\C# Programs\If statement challenge\bin\Debug\net5.0\If statement challenge.dll
+C:\C# Programs\If statement challenge\bin\Debug\net5.0\ref\If statement challenge.dll
+C:\C# Programs\If statement challenge\bin\Debug\net5.0\If statement challenge.pdb
+C:\C# Programs\If statement challenge\obj\Debug\net5.0\If statement challenge.dll
+C:\C# Programs\If statement challenge\obj\Debug\net5.0\ref\If statement challenge.dll
+C:\C# Programs\If statement challenge\obj\Debug\net5.0\If statement challenge.pdb
+C:\C# Programs\If statement challenge\obj\Debug\net5.0\If statement challenge.genruntimeconfig.cache

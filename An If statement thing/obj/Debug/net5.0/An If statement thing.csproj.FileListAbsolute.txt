@@ -1,0 +1,16 @@
+C:\C# Programs\An If statement thing\obj\Debug\net5.0\An If statement thing.csprojAssemblyReference.cache
+C:\C# Programs\An If statement thing\obj\Debug\net5.0\An If statement thing.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Programs\An If statement thing\obj\Debug\net5.0\An If statement thing.AssemblyInfoInputs.cache
+C:\C# Programs\An If statement thing\obj\Debug\net5.0\An If statement thing.AssemblyInfo.cs
+C:\C# Programs\An If statement thing\obj\Debug\net5.0\An If statement thing.csproj.CoreCompileInputs.cache
+C:\C# Programs\An If statement thing\bin\Debug\net5.0\An If statement thing.exe
+C:\C# Programs\An If statement thing\bin\Debug\net5.0\An If statement thing.deps.json
+C:\C# Programs\An If statement thing\bin\Debug\net5.0\An If statement thing.runtimeconfig.json
+C:\C# Programs\An If statement thing\bin\Debug\net5.0\An If statement thing.runtimeconfig.dev.json
+C:\C# Programs\An If statement thing\bin\Debug\net5.0\An If statement thing.dll
+C:\C# Programs\An If statement thing\bin\Debug\net5.0\ref\An If statement thing.dll
+C:\C# Programs\An If statement thing\bin\Debug\net5.0\An If statement thing.pdb
+C:\C# Programs\An If statement thing\obj\Debug\net5.0\An If statement thing.dll
+C:\C# Programs\An If statement thing\obj\Debug\net5.0\ref\An If statement thing.dll
+C:\C# Programs\An If statement thing\obj\Debug\net5.0\An If statement thing.pdb
+C:\C# Programs\An If statement thing\obj\Debug\net5.0\An If statement thing.genruntimeconfig.cache
